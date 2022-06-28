@@ -1,4 +1,5 @@
 license.txt
+setup.cfg
 setup.py
 PyTextAnalyzer/__init__.py
 PyTextAnalyzer.egg-info/PKG-INFO
