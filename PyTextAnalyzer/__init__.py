@@ -195,11 +195,4 @@ class Analyzer:
 
 
 
-analyzer = Analyzer()
-
-s = "1)This is the string for the testing.\nand i am abhay"
-inp = input('Enter text : ')
-
-print(analyzer.analyze(s))
-
 
