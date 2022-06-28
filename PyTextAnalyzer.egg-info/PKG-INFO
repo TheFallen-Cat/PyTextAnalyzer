@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: PyTextAnalyzer
+Version: 1.0
+Summary: Python Module with functions helping with analyzing strings.
+Home-page: UNKNOWN
+Author: Fallen Cat
+Author-email: fallencat.user@gmail.com
+License: MIT
+Keywords: String Analyzer
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+License-File: license.txt
+
+UNKNOWN
+

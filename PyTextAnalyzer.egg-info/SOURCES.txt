@@ -1,0 +1,8 @@
+license.txt
+setup.py
+PyTextAnalyzer/__init__.py
+PyTextAnalyzer/test.py
+PyTextAnalyzer.egg-info/PKG-INFO
+PyTextAnalyzer.egg-info/SOURCES.txt
+PyTextAnalyzer.egg-info/dependency_links.txt
+PyTextAnalyzer.egg-info/top_level.txt
