@@ -21,9 +21,8 @@ class Analyzer:
     mixed_string = characters_lower + characters_upper + str(number_string) + special_characters
 
 
-    analyzer_count = 0
     def __init__(self):
-        Analyzer.analyzer_count = self.analyzer_count + 1
+        Analyzer.version = '1.1.0'
 
 
 
@@ -63,7 +62,7 @@ class Analyzer:
         average_word_length = self.averageLength(text)
 
         #dictionary with main data
-        analyzed_dict = {'characters':no_of_characters, 'words':no_of_words, 'spaces':no_of_spaces, 'numbers':no_of_numbers, 'specials':no_of_specials, 'capital_letters':no_of_capitals, 'lower_letters':no_of_lowers, 'frequency_of_words':no_of_frequent_words, 'paragraphs':no_of_paras, 'average_word_length':average_word_length}
+        analyzed_dict = {'characters':no_of_characters, 'words':no_of_words, 'spaces':no_of_spaces, 'numbers':no_of_numbers, 'specials':no_of_specials, 'capital_letters':no_of_capitals, 'lower_letters':no_of_lowers, 'paragraphs':no_of_paras, 'average_word_length':average_word_length, 'frequency _of_words':no_of_frequent_words,}
 
 
         return analyzed_dict
@@ -192,7 +191,5 @@ class Analyzer:
         list_of_words = self.words(text)
 
         return math.trunc(list_of_chars / list_of_words)
-
-
 
 

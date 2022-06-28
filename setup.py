@@ -11,11 +11,13 @@ classifiers = ['Development Status :: 5 - Production/Stable',
 
 
 setup(name="PyTextAnalyzer",
-version="1.0",
+version="1.1.0",
 description="Python Module with functions helping with analyzing strings.",
 author="Fallen Cat",
 author_email="fallencat.user@gmail.com",
 packages=find_packages(),
 license='MIT',
 classifiers=classifiers,
-keywords='String Analyzer')
+keywords='String Analyzer',
+url='https://github.com/TheFallen-Cat/PyTextAnalyzer',
+download_url='https://github.com/TheFallen-Cat/PyTextAnalyzer/archive/refs/tags/1.1.0.tar.gz')
