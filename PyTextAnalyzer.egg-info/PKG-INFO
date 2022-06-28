@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
 Name: PyTextAnalyzer
-Version: 1.1.0
+Version: 1.1.1
 Summary: Python Module with functions helping with analyzing strings.
 Home-page: https://github.com/TheFallen-Cat/PyTextAnalyzer
 Author: Fallen Cat
 Author-email: fallencat.user@gmail.com
 License: MIT
-Download-URL: https://github.com/TheFallen-Cat/PyTextAnalyzer/archive/refs/tags/1.1.0.tar.gz
+Download-URL: https://github.com/TheFallen-Cat/PyTextAnalyzer/archive/refs/tags/1.1.1.tar.gz
 Keywords: String Analyzer
 Platform: UNKNOWN
 Classifier: Development Status :: 5 - Production/Stable
